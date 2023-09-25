@@ -13,11 +13,6 @@ Footer: Provides copyright information and social media links.
 Getting Started
 To run this project locally, follow these steps:
 
-
-Install Dependencies: Navigate to the project directory and run npm install to install the required dependencies.
-
-Run the Development Server: Use npm run dev to start the development server. The application will be available at http://localhost:3000.
-
 Explore the Application: Open your web browser and go to http://localhost:3000 to explore the web application. You can interact with the different sections and switch between light and dark themes.
 
 Technology Stack
@@ -36,4 +31,3 @@ Stephen Oluwafemi
 Acknowledgments
 Special thanks to the React and Vite communities for their excellent documentation and support.
 The Tailwind CSS framework for making styling efficient and responsive.
-Feel free to customize and extend this README to include additional information specific to your project.
